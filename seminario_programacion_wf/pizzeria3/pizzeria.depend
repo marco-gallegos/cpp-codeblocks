@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1409729857 source:/home/c-box/pizzeria/mus.cpp
+	<iostream>
+
+1409784694 source:/home/c-box/pizzeria/main.cpp
+	<iostream>
+	<string.h>
+	<string>
+

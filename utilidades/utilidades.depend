@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1418180271 source:/home/cebox/utilidades/main.cpp
+	<iostream>
+	<cstdlib>
+	"utilidadescomunes.h"
+	"plantillas.h"
+
+1418180783 /home/cebox/utilidades/utilidadescomunes.h
+	<cstdio>
+	<iostream>
+	<sstream>
+
+1418170420 /home/cebox/utilidades/plantillas.h
+	<iostream>
+

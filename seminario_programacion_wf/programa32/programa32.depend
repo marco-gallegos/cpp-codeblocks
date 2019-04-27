@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1414469412 source:/home/cebox/seminario_programacion_wf/programa32/main.cpp
+	<iostream>
+	<cstdlib>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419330126 source:/home/cebox/codeblocks/mysqlcppconn/main.cpp
+	<iostream>
+	"mysql_driver.h"
+	<cppconn/statement.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415178547 source:/home/cebox/seminario_programacion_wf/pizzeriafinal/main.cpp
+	<iostream>
+	<cstdlib>
+

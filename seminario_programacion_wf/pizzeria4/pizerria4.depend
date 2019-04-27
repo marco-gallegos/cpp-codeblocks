@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410936265 source:/home/cebox/seminario_programacion_wf/pizerria4/main.cpp
+	<iostream>
+	<string.h>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410296903 source:/home/cebox/pizzeria2/main.cpp
+	<iostream>
+	<string.h>
+	<string>
+
